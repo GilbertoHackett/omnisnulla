@@ -1,0 +1,17 @@
+{
+  "author": "GailJones",
+  "name": "omnisnulla",
+  "description": "matchMedia polyfill for testing media queries in JS",
+  "version": "1.8.1",
+  "homepage": "https://github.com/GilbertoHackett/omnisnulla.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertoHackett/omnisnulla.git"
+  },
+  "main": "./matchMedia.js",
+  "dependencies": {
+    "estporro": "^1.0.0",
+    "nonvoluptas": "^1.3.0",
+    "voluptasqui": "^1.0.0"
+  }
+}
